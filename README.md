@@ -1,6 +1,7 @@
 # Simon Game
 
 This repository contains a web-based Simon game implemented using HTML, CSS, and JavaScript. Simon is a classic memory game where players must replicate a sequence of button presses. 
+Play @ https://arunkumar235.github.io/Simon-Game/
 
 ## Features
 
